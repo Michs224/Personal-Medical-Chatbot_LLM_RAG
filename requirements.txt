@@ -1,3 +1,4 @@
-llama-cpp-python
-llama-index
-llama-index-embeddings-huggingface
+llama-cpp-python==0.2.78
+llama-index==0.10.45
+llama-index-embeddings-huggingface==0.2.2
+gradio==4.36.1
