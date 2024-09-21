@@ -5,7 +5,7 @@
 
 ---
 
-This project implements an AI chatbot using Large Language Models (LLM) and Retrieval Augmented Generation (RAG) techniques to provide detailed answers based on knowledge extracted from PDF documents.
+This project implements an medical AI chatbot using Large Language Models (LLM) and Retrieval Augmented Generation (RAG) techniques to provide detailed answers based on medical knowledge extracted from PDF documents.
 
 ## Features
 
@@ -50,5 +50,5 @@ This project implements an AI chatbot using Large Language Models (LLM) and Retr
 
 ## Examples
 
-- Query the chatbot with various questions about the content of PDF documents to test its knowledge retrieval capabilities.
+- Query the chatbot with various questions about medical information sourced from medical PDFs to test its knowledge retrieval capabilities.
 - Explore different configurations and parameters to optimize performance and response quality.
