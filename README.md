@@ -1,4 +1,4 @@
-# Personal-Chatbot_LLM_RAG
+# Personal-Medical-Chatbot_LLM_RAG
 
 ### Download the Model: zephyr-7b-beta.Q5_K_M.gguf
 ### From the following link: [https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main](https://huggingface.co/TheBloke/zephyr-7B-beta-GGUF)
