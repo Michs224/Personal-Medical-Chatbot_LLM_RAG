@@ -33,9 +33,37 @@ This project implements an AI medical chatbot using Large Language Models (LLM) 
 2. Install `llama-cpp-python` by following the instructions [here](https://github.com/abetlen/llama-cpp-python).
 
 3. Install additional dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
+   - ### Using Conda
+  
+     - Create and activate a Conda environment with Python 3.10:
+         ```bash
+         conda create --name myenv python=3.10
+         conda activate myenv
+         ```
+     - Install dependencies:
+         ```bash
+         pip install -r requirements.txt
+         ```
+  
+  - ### Using venv (Virtual Environment)
+  
+      - Create a virtual environment with Python 3.10:
+         ```bash
+         py -3.10 -m venv myenv
+         ```
+      - Activate the virtual environment:
+         - On Windows:
+           ```bash
+           myenv\Scripts\activate
+           ```
+         - On macOS/Linux:
+           ```bash
+           source myenv/bin/activate
+           ```
+      - Install dependencies:
+         ```bash
+         pip install -r requirements.txt
+         ```
 
 4. Set up LlamaCPP and download necessary models following the provided instructions.
 
